@@ -147,8 +147,7 @@
       "Essential": true,
       "Image": "public.ecr.aws/cloudwatch-agent/cloudwatch-agent:latest",
       "Memory": 512,
-      "Name": "cloudwatch-agent",
-      "User": "0:1338"
+      "Name": "cloudwatch-agent"
      }
     ],
     "Cpu": "2048",
